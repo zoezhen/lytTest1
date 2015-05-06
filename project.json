@@ -1,0 +1,10 @@
+{
+    "name": "lytTest1",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "lytTest1.xml",
+    "author": "zoezhen",
+    "minimum_firmware_version": 42
+}
